@@ -16,10 +16,10 @@ print(my_var)
 print(my_var[0])
 
 a = [0, 9, 8, 7]
-my_var = pandas.Series(a, index = ["x", "y", "z", "d"])
+my_var = pandas.Series(a, index =
+["x", "y", "z", "d"])
 print(my_var)
 print(my_var["y"])
-
 
 
 
